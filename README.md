@@ -5,7 +5,7 @@ python3 easycalc.py
 
 If you lack python3
 or get error python3
-comman not found
+command not found
 
 
 
